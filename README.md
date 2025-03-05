@@ -4,4 +4,4 @@
 This project analyzes sales performance data from Blinkit using SQL, Python, and Power BI.
 
 ## 📊 PowerBI Dashboard  
-![Blinkit Dashboard](Blinkit-Performance.pbix)  
+![Blinkit Dashboard](Blinkit_Performance.pdf)  
